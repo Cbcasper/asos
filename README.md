@@ -1,4 +1,4 @@
-# Asos
+# asos
 
 This is the repository for the asos project in my internship for TEXTUA. Here some jupyter notebooks were created to work with the data provided by the client.
 
